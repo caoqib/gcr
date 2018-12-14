@@ -1,10 +1,13 @@
 ---
 last_check:
-  etag: '"cac6cf157761731a7656d19ebbba8d62"'
+  etag: '"2c556d0a6391daa124e204ebbc879764"'
   version: 1.8.9
-  at: 1544765236
+  at: 1544766155
 checked_completion: true
 completion_version: 1.8.9
 endpoints:
   https://api.travis-ci.org/:
     access_token: jLNfEmcPefT9JPwTvFt9_w
+repos:
+  caoqib/gcr:
+    endpoint: https://api.travis-ci.org/
