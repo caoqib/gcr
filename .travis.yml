@@ -3,12 +3,12 @@ language: python
 python:
 - '2.7'
 addons:
-  apt:
-    packages:
-    - docker-ce
+  apt:
+    packages:
+    - docker-ce
 branches:
-  only:
-  - master
+  only:
+  - master
 install:
 - git remote -v
 script:
